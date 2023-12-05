@@ -1,6 +1,4 @@
 # QAuto-30.08.2023-WorlD is mine 
 QWERTY
-Change for the new branche
-NEW TEXT ADDED
-455555
-Hello
+Change for the new br
+Hello again 
